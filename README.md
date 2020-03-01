@@ -21,6 +21,7 @@ List of booru imageboards
 | Derpibooru                 | https://derpibooru.org/                 | philomena                      | 2287k                        | NSFW     | Art       |                                                    |             |
 | verminbooru                | https://booru.myverm.in/                | szurubooru                     | 25k                          | SFW?     | Art       | Very low quality art                               |             |
 | nik.bot.nu                 | https://nik.bot.nu/                     | ?                              | 3396k                        | NSFW     | Mixed     | Scraper                                            |             |
+| nozomi                     | https://nozomi.la/                      | ?                              | 15626k                       | NSFW     | Art       | ???                                                |             |
 | aryion                     | https://aryion.com/                     | g4?                            | 586k                         |          |           |                                                    |             |
 | karabako                   | http://www.karabako.net/                | ?                              | 45k                          | SFW      | Art       |                                                    |             |
 | E-Shuushuu                 | https://e-shuushuu.net/                 | ?                              | 1020k                        | SFW      | Art       | No api?                                            |             |
@@ -39,6 +40,7 @@ List of booru imageboards
 | sakugabooru                | https://www.sakugabooru.com/            | moebooru                       | 114k                         | SFW?     | Videos    | Also has sakuga.moe domain                         |             |
 | evbooru                    | https://evbooru.com/                    | moebooru                       | 2k                           | NSFW     | Art       |                                                    |             |
 | genboard                   | https://img.genshiken-itb.org/          | moebooru                       | 1k                           | SFW      | Art       |                                                    |             |
+| Lolibooru                  | https://lolibooru.moe/                  | moebooru                       | 225k                         | NSFW     | Art       |                                                    |             |
 | megabooru                  | https://www.megabooru.com/              | Shimmie                        | 370k                         | NSFW     | Art       |                                                    |             |
 | hard55                     | http://www.hard55.com/                  | Shimmie                        | 84k                          | NSFW     | Art       |                                                    |             |
 | analbooru                  | http://www.analbooru.com/               | Shimmie                        | 122k                         | NSFW     | Art       |                                                    |             |
@@ -63,3 +65,9 @@ List of booru imageboards
 | Rule34 Yaoi                | http://rule34yaoi.com/                  | Shimmie                        | 1k                           | NSFW     | Art       |                                                    |             |
 | Rule 34                    | https://rule34.paheal.net/              | Shimmie                        | 3531k                        | NSFW     | Art       | Very bad tagging                                   |             |
 | Rule34hentai               | https://rule34hentai.net/               | Shimmie                        | 421k                         | NSFW     | Art       |                                                    |             |
+| Giantessbooru              | https://giantessbooru.com/              | Shimmie                        | 256k                         | NSFW     | Art       |                                                    |             |
+| Tentacle rape              | https://tentaclerape.net/               | Shimmie                        | 83k                          | NSFW     | Art       |                                                    |             |
+| WH40kart                   | https://wh40kart.im/                    | Shimmie                        | 47k                          | SFW?     | Art       |                                                    |             |
+| 4chan house                | http://shimmie.4chanhouse.org/          | Shimmie                        | 9k                           | NSFW     | Memes     | Almost no tags                                     |             |
+
+
